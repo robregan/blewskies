@@ -146,7 +146,12 @@
 
   .header-socials a { font-size: 19px; }
   .wsmenu > .wsmenu-list > li > .wsmegamenu.halfmenu { width: 50%; }
-  .wsmenu > .wsmenu-list > li > .wsmegamenu.w-70 { width: 80%;left: 15%; }
+  .wsmenu > .wsmenu-list > li > .wsmegamenu.w-70 {
+    
+    width: 80%;
+    left: 15%;
+  
+  }
 
   /* Text Block Typography */
   .txt-block h4, .txt-block h3, .txt-block h2 { margin-bottom: 20px; }
